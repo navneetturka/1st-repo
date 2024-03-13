@@ -1,3 +1,4 @@
 Hello my name is navneet kaur turka . Lets practice some git. Now its my 4th commit.
 I am doing changes.
 Now ckecking to detect merge conflict problem.
+i like
